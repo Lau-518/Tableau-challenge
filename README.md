@@ -6,7 +6,7 @@ The aim of this challenge is to analyse interesting trends from New York CitiBik
 
 ![Citi-Bikes](images/citi-bike-station-bikes.jpg)
 
-The chosen period to analyse the data was from September 2019 to May 2020, I wanted to know how the pandemic or season affected CitiBike the usage of customers/subscribers. The datasource on their website [Citi Bike Data](https://wwww.citibikenyc.com/system-data).
+The chosen period to analyse the data was from September 2019 to May 2020, I wanted to know how the pandemic or season affected CitiBike bike usage from it's customers/subscribers. The datasource on their website [Citi Bike Data](https://wwww.citibikenyc.com/system-data).
 
 **Questions**
 
