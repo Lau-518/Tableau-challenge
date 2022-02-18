@@ -4,7 +4,7 @@
 
 The aim of this challenge is to analyse interesting trends from New York CitiBike open source dataset.
 
-![Citi-Bikes](Images/citi-bike-station-bikes.jpg)
+![Citi-Bikes](images/citi-bike-station-bikes.jpg)
 
 The chosen period to analyse the data was from September 2019 to May 2020, I wanted to know how the pandemic or season affected CitiBike the usage of customers/subscribers. The datasource on their website [Citi Bike Data](https://wwww.citibikenyc.com/system-data).
 
@@ -24,7 +24,7 @@ A story was created to understand the the gender imblance in the New York Citi B
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikRidershipDemographicsStory/CitiBikeRidershipDemographicsstory)
 
-(Images/CitiBike Ridership Demographic Story.PNG)
+(images/CitiBike Ridership Demographic Story.PNG)
 
 **CitiBike Ridership Demographic Dashboard**
 
@@ -32,7 +32,7 @@ A dashboard was created to enable user to view how ridership is varied in terms 
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikRidershipDemographicsDashboard/RidershipDemographics)
 
-(Images/CitiBike Ridership Demographic Dashboard.PNG)
+(images/CitiBike Ridership Demographic Dashboard.PNG)
 
 
 **CitiBike Demand and Maintenance Dashboard**
@@ -41,7 +41,7 @@ A dashboard was created to enable user to view how which bikes are mostly used p
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikDemandMaintenanceDashboard/DemandMaintenanceDashboard)
 
-(Images/CitiBike Demand and Maintenance Dashboard.PNG)
+(images/CitiBike Demand and Maintenance Dashboard.PNG)
 
 
 **CitiBike Official City Map**
@@ -50,6 +50,6 @@ This map enables the user to view which Bike Station records the lowest trips or
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikOfficialCityMap/CityOfficialMap)
 
-(Images/CitiBike Official City Map.PNG)
+(images/CitiBike Official City Map.PNG)
 
 
