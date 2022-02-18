@@ -28,7 +28,7 @@ A story was created to understand the the gender imblance in the New York Citi B
 
 **CitiBike Ridership Demographic Dashboard**
 
-A dashboard was created to enable user to view how ridership is varied in terms of age and gender in the linnk below.
+A dashboard was created to enable users to view how ridership is varied in terms of age and gender in the link below.
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikRidershipDemographicsDashboard/RidershipDemographics)
 
@@ -37,7 +37,7 @@ A dashboard was created to enable user to view how ridership is varied in terms 
 
 **CitiBike Demand and Maintenance Dashboard**
 
-A dashboard was created to enable user to view how which bikes are mostly used per bikeID and which are the most population station for riders to start and end their journey which can be found in the link below.
+A dashboard was created to enable users to view how which bikes are mostly used per bikeID and which are the most population station for riders to start and end their journey which can be found in the link below.
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikDemandMaintenanceDashboard/DemandMaintenanceDashboard)
 
