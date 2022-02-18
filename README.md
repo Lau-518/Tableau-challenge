@@ -14,7 +14,7 @@ The chosen period to analyse the data was from September 2019 to May 2020, I wan
 * What were the count of trip of customers and subscribers during autumn and winter?
 * What is the CitiBike ridership gender demographics?
 * How age of customers and subscribers is linked to trip duration?
-* Which Bike station is the most populor for riders to start their journey in New York?
+* Which Bike station is the most popular for riders to start their journey in New York?
 * Which Bike station is the most popular for riders to end their journey in New York?
 * Which Bikes are the most used?
 
