@@ -24,7 +24,7 @@ A story was created to understand the the gender imblance in the New York Citi B
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikRidershipDemographicsStory/CitiBikeRidershipDemographicsstory)
 
-![images/CitiBike-Ridership-Demographic- Story.PNG](images/CitiBike-Ridership-Demographic- Story.PNG)
+![images/CitiBike-Ridership-Demographic](images/CitiBike-Ridership-Demographic- Story.PNG)
 
 **CitiBike Ridership Demographic Dashboard**
 
@@ -32,7 +32,7 @@ A dashboard was created to enable user to view how ridership is varied in terms 
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikRidershipDemographicsDashboard/RidershipDemographics)
 
-(images/CitiBike Ridership Demographic Dashboard.PNG)
+![images/CitiBike-Ridership-Demographic-Dashboard](images/CitiBike-Ridership-Demographic-Dashboard.PNG)
 
 
 **CitiBike Demand and Maintenance Dashboard**
@@ -41,7 +41,7 @@ A dashboard was created to enable user to view how which bikes are mostly used p
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikDemandMaintenanceDashboard/DemandMaintenanceDashboard)
 
-(images/CitiBike Demand and Maintenance Dashboard.PNG)
+![images/CitiBike-Demand-and- Maintenance-Dashboard.PNG](images/CitiBike-Demand-and- Maintenance-Dashboard.PNG)
 
 
 **CitiBike Official City Map**
@@ -50,6 +50,6 @@ This map enables the user to view which Bike Station records the lowest trips or
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikOfficialCityMap/CityOfficialMap)
 
-(images/CitiBike Official City Map.PNG)
+![images/CitiBike-Official-City-Map.PNG](images/CitiBike-Official-City-Map.PNG)
 
 
