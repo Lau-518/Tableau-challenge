@@ -24,7 +24,7 @@ A story was created to understand the the gender imblance in the New York Citi B
 
 (https://public.tableau.com/app/profile/laurent.ah.sue/viz/CitiBikRidershipDemographicsStory/CitiBikeRidershipDemographicsstory)
 
-![images/CitiBike-Ridership-Demographic-Story](CitiBike-Ridership-Demographic-Story.PNG)
+![images/CitiBike-Ridership-Demographic-Story.PNG](CitiBike-Ridership-Demographic-Story.PNG)
 
 **CitiBike Ridership Demographic Dashboard**
 
